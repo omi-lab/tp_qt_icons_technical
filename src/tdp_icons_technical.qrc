@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/tdp_icons_technical">
+        <file alias="add.png">resources/add.png</file>
+        <file alias="remove.png">resources/remove.png</file>
+        <file alias="up.png">resources/up.png</file>
+        <file alias="down.png">resources/down.png</file>
+        <file alias="left.png">resources/left.png</file>
+        <file alias="right.png">resources/right.png</file>
+        <file alias="play.png">resources/play.png</file>
+        <file alias="upgrade.png">resources/upgrade.png</file>
+        <file alias="next.png">resources/next.png</file>
+        <file alias="previous.png">resources/previous.png</file>
+        <file alias="assign.png">resources/assign.png</file>
+        <file alias="stop.png">resources/stop.png</file>
+        <file alias="mutate.png">resources/mutate.png</file>
+        <file alias="configure.png">resources/configure.png</file>
+        <file alias="cluster.png">resources/cluster.png</file>
+        <file alias="pause.png">resources/pause.png</file>
+    </qresource>
+</RCC>
