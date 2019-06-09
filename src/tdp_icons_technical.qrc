@@ -16,5 +16,9 @@
         <file alias="configure.png">resources/configure.png</file>
         <file alias="cluster.png">resources/cluster.png</file>
         <file alias="pause.png">resources/pause.png</file>
+        <file alias="error.png">resources/error.png</file>
+        <file alias="warning.png">resources/warning.png</file>
+        <file alias="error_small.png">resources/error_small.png</file>
+        <file alias="warning_small.png">resources/warning_small.png</file>
     </qresource>
 </RCC>
