@@ -1,10 +1,10 @@
-TARGET = tdp_icons_technical
+TARGET = tp_qt_icons_technical
 TEMPLATE = lib
 
-DEFINES += TDP_ICONS_TECHNICAL_LIBRARY
+DEFINES += tp_qt_ICONS_TECHNICAL_LIBRARY
 
-RESOURCES += src/tdp_icons_technical.qrc
+RESOURCES += src/tp_qt_icons_technical.qrc
 
 #SOURCES += src/Globals.cpp
-HEADERS += inc/tdp_icons_technical/Globals.h
+HEADERS += inc/tp_qt_icons_technical/Globals.h
 

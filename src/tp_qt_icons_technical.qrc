@@ -1,5 +1,5 @@
 <RCC>
-    <qresource prefix="/tdp_icons_technical">
+    <qresource prefix="/tp_qt_icons_technical">
         <file alias="add.png">resources/add.png</file>
         <file alias="remove.png">resources/remove.png</file>
         <file alias="up.png">resources/up.png</file>
