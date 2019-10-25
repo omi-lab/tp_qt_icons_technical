@@ -7,7 +7,7 @@
 //! Some icons
 namespace tp_qt_icons_technical
 {
-
+int staticInit();
 }
 
 #endif
