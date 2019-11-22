@@ -19,7 +19,8 @@
         <file alias="search.png">resources/search.png</file>
         <file alias="import.png">resources/import.png</file>
         <file alias="export.png">resources/export.png</file>
-        <file alias="clear.png">resources/close.png</file>
+        <file alias="clear.png">resources/clear.png</file>
+        <file alias="close.png">resources/close.png</file>
         <file alias="filter.png">resources/filter.png</file>
         <file alias="error.png">resources/error.png</file>
         <file alias="warning.png">resources/warning.png</file>
