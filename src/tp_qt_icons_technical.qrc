@@ -22,6 +22,7 @@
         <file alias="clear.png">resources/clear.png</file>
         <file alias="close.png">resources/close.png</file>
         <file alias="filter.png">resources/filter.png</file>
+        <file alias="eye.png">resources/eye.png</file>
         <file alias="error.png">resources/error.png</file>
         <file alias="warning.png">resources/warning.png</file>
         <file alias="error_small.png">resources/error_small.png</file>
