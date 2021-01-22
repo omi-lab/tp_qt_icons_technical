@@ -1,7 +1,7 @@
 TARGET = tp_qt_icons_technical
 TEMPLATE = lib
 
-DEFINES += tp_qt_ICONS_TECHNICAL_LIBRARY
+DEFINES += TP_QT_ICONS_TECHNICAL_LIBRARY
 
 RESOURCES += src/tp_qt_icons_technical.qrc
 
