@@ -27,5 +27,6 @@
         <file alias="warning.png">resources/warning.png</file>
         <file alias="error_small.png">resources/error_small.png</file>
         <file alias="warning_small.png">resources/warning_small.png</file>
+        <file alias="selected.png">resources/selected.png</file>
     </qresource>
 </RCC>

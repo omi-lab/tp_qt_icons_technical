@@ -286,6 +286,16 @@
        x2="217.79109"
        y2="182.06923"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4139"
+       id="linearGradient1024"
+       x1="193.28084"
+       y1="258.1929"
+       x2="219.0508"
+       y2="258.1929"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(24.949464,13.599906)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -294,16 +304,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="249.89902"
-     inkscape:cy="926.08743"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="200.18473"
+     inkscape:cy="874.65056"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="692"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="1920"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-others="false"
      inkscape:snap-nodes="false"
@@ -775,6 +785,34 @@
          height="23.4375"
          x="-265.97528"
          y="204.1386"
+         transform="scale(-1,1)" />
+    </g>
+    <g
+       id="g1054"
+       inkscape:export-xdpi="92.160004"
+       inkscape:export-ydpi="92.160004">
+      <g
+         transform="translate(-0.03327942,0.36480713)"
+         id="g1038">
+        <circle
+           style="opacity:1;fill:url(#linearGradient1024);fill-opacity:1;stroke:#00d200;stroke-width:1.2421875;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2421875, 1.2421875;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1016"
+           cx="231.11528"
+           cy="271.79279"
+           r="12.263883" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1028"
+           d="m 222.12561,272.53165 6.40807,6.44116 11.57128,-11.51184 -2.83356,-2.84819 -8.73274,8.68787 -3.5745,-3.59295 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55291903;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1040"
+         width="30"
+         height="30"
+         x="-246.082"
+         y="257.15759"
          transform="scale(-1,1)" />
     </g>
   </g>
