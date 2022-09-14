@@ -16,6 +16,7 @@
         <file alias="configure.png">resources/configure.png</file>
         <file alias="cluster.png">resources/cluster.png</file>
         <file alias="pause.png">resources/pause.png</file>
+        <file alias="loop.png">resources/loop.png</file>
         <file alias="search.png">resources/search.png</file>
         <file alias="import.png">resources/import.png</file>
         <file alias="export.png">resources/export.png</file>
