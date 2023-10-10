@@ -31,5 +31,7 @@
         <file alias="selected.png">resources/selected.png</file>
         <file alias="wide.png">resources/wide.png</file>
         <file alias="tall.png">resources/tall.png</file>
+        <file alias="copy.png">resources/copy.png</file>
+        <file alias="paste.png">resources/paste.png</file>
     </qresource>
 </RCC>
