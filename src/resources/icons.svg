@@ -366,6 +366,26 @@
        y2="258.1929"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(24.949464,13.599906)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4139"
+       id="linearGradient1082"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(28.142381,72.297058)"
+       x1="193.28084"
+       y1="258.1929"
+       x2="219.0508"
+       y2="258.1929" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9206"
+       id="linearGradient1217"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(72.421876,71.999516)"
+       x1="193.28084"
+       y1="258.1929"
+       x2="219.0508"
+       y2="258.1929" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -374,15 +394,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="340.47192"
-     inkscape:cy="205.5913"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="249.96225"
+     inkscape:cy="351.87402"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-others="false"
@@ -1127,6 +1147,46 @@
            d="m 359.9067,221.40561 h 4.73346"
            id="path5739" />
       </g>
+    </g>
+    <g
+       id="g1174"
+       inkscape:export-filename="./led_green.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:url(#linearGradient1082);fill-opacity:1;stroke:#00d200;stroke-width:1.24219;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.24219, 1.24219;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1072"
+         cx="234.3082"
+         cy="330.48993"
+         r="12.263883" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1078"
+         width="30"
+         height="30"
+         x="-249.3082"
+         y="315.48993"
+         transform="scale(-1,1)" />
+    </g>
+    <g
+       id="g1442"
+       inkscape:export-filename="./led_red.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:url(#linearGradient1217);fill-opacity:1;stroke:#eb0000;stroke-width:1.24219;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.24219, 1.24219;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle1072-5"
+         cx="278.58768"
+         cy="330.19238"
+         r="12.263883" />
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1078-3"
+         width="30"
+         height="30"
+         x="-293.58768"
+         y="315.19238"
+         transform="scale(-1,1)" />
     </g>
   </g>
 </svg>
