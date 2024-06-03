@@ -1,4 +1,5 @@
-QT += core gui
+QT += core
+QT += gui
 DEPENDENCIES += tp_utils
 INCLUDEPATHS += tp_qt_icons_technical/inc/
 LIBRARIES    += tp_qt_icons_technical
