@@ -35,5 +35,7 @@
         <file alias="paste.png">resources/paste.png</file>
         <file alias="led_red.png">resources/led_red.png</file>
         <file alias="led_green.png">resources/led_green.png</file>
+        <file alias="work.png">resources/work.png</file>
+        <file alias="bothCamerasSelected.png">resources/bothCamerasSelected.png</file>
     </qresource>
 </RCC>
